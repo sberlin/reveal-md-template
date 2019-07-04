@@ -1,4 +1,5 @@
 {
     "transition": "none",
-    "slideNumber": true
+    "slideNumber": true,
+    "pdfSeparateFragments": false
 }
